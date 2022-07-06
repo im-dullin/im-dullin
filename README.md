@@ -27,7 +27,7 @@
 <div align=center>
    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-   <img src="https://img.shields.io/badge/Anaconda-007cba?style=flat&logo=Anaconda&logoColor=white" />
+   <img src="https://img.shields.io/badge/Anaconda-43b049?style=flat&logo=Anaconda&logoColor=white" />
    <img src="https://img.shields.io/badge/Jupyter%20notebook-c5540b?style=flat&logo=Jupyter%20notebook&logoColor=white" />
    <br>
    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
